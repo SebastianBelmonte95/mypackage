@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: mypackage
+Version: 0.0.1
+Summary: this is mypackage description
+Home-page: https://github.com/SebastianBelmonte95/mypackage
+Author: Sebastian Belmonte
+Author-email: sebastian@email.com
+License: MIT
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+License-File: LICENSE
+
+# mypackage
+This repository is used to learn how to package python modules and how to install python packages from GitHub
+
+
