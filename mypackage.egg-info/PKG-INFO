@@ -5,7 +5,7 @@ Summary: this is mypackage description
 Home-page: https://github.com/SebastianBelmonte95/mypackage
 Author: Sebastian Belmonte
 Author-email: sebastian@email.com
-License: MIT
+License: MIT License
 Platform: UNKNOWN
 Classifier: Development Status :: 5 - Production/Stable
 Classifier: Intended Audience :: Developers
